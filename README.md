@@ -1,1 +1,0 @@
-# Python_script_fusarium_infection_phenotyping
